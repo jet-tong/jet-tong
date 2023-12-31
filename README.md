@@ -3,7 +3,7 @@
 - 🌍 I'm based in Cambridge, UK
 - 🎓 I'm reading Engineering at the University of Cambridge
 - 🌱 I'm learning PyTorch, and webdev on the side
-- 🚀 I'm currently working on [my website](https://jensentong.com)! (early stages)
+- 🚀 I'm currently working on [my website](https://jensentong.com)!
 - 📫 You can contact me at [jensen.tong@gmail.com](mailto:jensen.tong@gmail.com)
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -33,15 +33,15 @@
 <p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
   <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" width="36" height="36" alt="nginx" /></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="36" height="36" alt="Google Tag Manager" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" width="36" height="36" alt="Bash Scripting" /></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Unity.png" width="36" height="36" alt="Unity" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/png-shadow-512/LaTeX.png" width="36" height="36" alt="LaTeX" /></a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Adobe-Premiere-Pro.svg" width="36" height="36" alt="Premiere Pro" /></a>
-  <a href="https://www.klipper3d.org/" target="_blank" rel="noreferrer"><img src="https://www.klipper3d.org/img/klipper.svg" width="36" height="36" alt="Klipper/Moonraker" /></a>
 </p>
 
 
