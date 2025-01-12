@@ -1,10 +1,8 @@
 ### Hey there 👋 I'm Jensen
 
-- 🌍 I'm based in Cambridge, UK
-- 🎓 I'm reading Engineering at the University of Cambridge
-- 🌱 I'm learning PyTorch, and webdev on the side
-- 🚀 I'm currently working on [my website](https://jensentong.com)!
-- 📫 You can contact me at [jensen.tong@gmail.com](mailto:jensen.tong@gmail.com)
+- 🎓 I'm a Cambridge Engineering Graduate
+- 🚀 I'm working on [my website](https://jensentong.com)!
+- 📫 You can contact me at [jensen.tong@gmail.com](mailto:jensen.tong+jt@gmail.com)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
